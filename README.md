@@ -6,9 +6,9 @@ An exploratory data analysis of the 2025 German federal election (*Bundestagswah
 
 ## Example Maps
 
-|Lower Saxony – Second Vote                     |Schleswig-Holstein – Second Vote               |Germany – Second Vote                          |
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-|*(saved to `output/` after running the script)*|*(saved to `output/` after running the script)*|*(saved to `output/` after running the script)*|
+|Lower Saxony – Second Vote                     |Schleswig-Holstein – Second Vote               |Germany – Second Vote                                               |
+|-----------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------|
+|*(saved to `output/` after running the script)*|*(saved to `output/` after running the script)*|![Germany – Second Vote](German_Federal_Election_2025_map_Rplot.png)|
 
 -----
 
